@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop Toshiba",
+        "price": 800,
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "Galaxy Samsung",
+        "price": 600,
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "iPhone",
+        "price": 700,
+        "active": true
+    },
+    {
+        "id": 4,
+        "name": "Dell",
+        "price": 800,
+        "active": true
+    }
+]
